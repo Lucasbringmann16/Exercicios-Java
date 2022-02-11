@@ -53,7 +53,7 @@ public class Main {
 		
 		if (codigo == 5) {
 			preco = preco5;
-        }
+        	}
 		
 		if (codigo <= 0) {
 			System.out.println("Produto não existe!");
