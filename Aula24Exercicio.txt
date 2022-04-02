@@ -1,0 +1,2 @@
+Faça um código, onde mostre:
+Produto, preço, idade, código do produto e gênero.
